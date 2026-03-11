@@ -8,4 +8,6 @@ Plans:
     - Large scrollback buffer
     - ANSI escape codes for colour, strikethrough, underline, etc
 
-2. maybe try my hand at a fast unicode parser & glyph renderer? We'll see how much work that would be :P
+2. wezterm-like compatibility, cross-platform, cross-renderer (maybe just use [river2D](https://codeberg.org/BadAcronym/river2D)?)
+
+3. maybe try my hand at a fast unicode parser & glyph renderer? We'll see how much work that would be :P
